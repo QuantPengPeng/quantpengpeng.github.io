@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT学科理论 on QuantPengPeng(张鹏)</title>
+    <link>https://quantpengpeng.github.io/categories/it%E5%AD%A6%E7%A7%91%E7%90%86%E8%AE%BA/</link>
+    <description>Recent content in IT学科理论 on QuantPengPeng(张鹏)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 09:07:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://quantpengpeng.github.io/categories/it%E5%AD%A6%E7%A7%91%E7%90%86%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>信息系统开发与管理</title>
+      <link>https://quantpengpeng.github.io/post/blog9/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>操作系统</title>
+      <link>https://quantpengpeng.github.io/post/blog6/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据库原理</title>
+      <link>https://quantpengpeng.github.io/post/blog4/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据结构</title>
+      <link>https://quantpengpeng.github.io/post/blog8/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机组成与体系结构</title>
+      <link>https://quantpengpeng.github.io/post/blog5/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机网络</title>
+      <link>https://quantpengpeng.github.io/post/blog7/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>软件开发工具学</title>
+      <link>https://quantpengpeng.github.io/post/blog1/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>运筹学</title>
+      <link>https://quantpengpeng.github.io/post/blog10/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据分析与机器学习 on QuantPengPeng(张鹏)</title>
+    <link>https://quantpengpeng.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 数据分析与机器学习 on QuantPengPeng(张鹏)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 09:07:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://quantpengpeng.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>数据分析与机器学习</title>
+      <link>https://quantpengpeng.github.io/post/blog12/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

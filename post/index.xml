@@ -12,25 +12,7 @@
     
     
     <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog0/</link>
-      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
-      
-      <guid>https://quantpengpeng.github.io/post/blog0/</guid>
-      <description>#hello</description>
-    </item>
-    
-    <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog10/</link>
-      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
-      
-      <guid>https://quantpengpeng.github.io/post/blog10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hello</title>
+      <title>C/C&#43;&#43;</title>
       <link>https://quantpengpeng.github.io/post/blog3/</link>
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
@@ -39,52 +21,34 @@
     </item>
     
     <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog4/</link>
+      <title>java</title>
+      <link>https://quantpengpeng.github.io/post/blog2/</link>
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
-      <guid>https://quantpengpeng.github.io/post/blog4/</guid>
+      <guid>https://quantpengpeng.github.io/post/blog2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog5/</link>
+      <title>python</title>
+      <link>https://quantpengpeng.github.io/post/blog0/</link>
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
-      <guid>https://quantpengpeng.github.io/post/blog5/</guid>
+      <guid>https://quantpengpeng.github.io/post/blog0/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog6/</link>
+      <title>保险科技</title>
+      <link>https://quantpengpeng.github.io/post/blog14/</link>
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
-      <guid>https://quantpengpeng.github.io/post/blog6/</guid>
+      <guid>https://quantpengpeng.github.io/post/blog14/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog7/</link>
-      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
-      
-      <guid>https://quantpengpeng.github.io/post/blog7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hello</title>
-      <link>https://quantpengpeng.github.io/post/blog8/</link>
-      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
-      
-      <guid>https://quantpengpeng.github.io/post/blog8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hello</title>
+      <title>信息系统开发与管理</title>
       <link>https://quantpengpeng.github.io/post/blog9/</link>
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
@@ -93,11 +57,92 @@
     </item>
     
     <item>
-      <title>hello2</title>
-      <link>https://quantpengpeng.github.io/post/blog2/</link>
+      <title>工作艺术</title>
+      <link>https://quantpengpeng.github.io/post/blog13/</link>
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
-      <guid>https://quantpengpeng.github.io/post/blog2/</guid>
+      <guid>https://quantpengpeng.github.io/post/blog13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>操作系统</title>
+      <link>https://quantpengpeng.github.io/post/blog6/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据分析与机器学习</title>
+      <link>https://quantpengpeng.github.io/post/blog12/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据可视化BI</title>
+      <link>https://quantpengpeng.github.io/post/blog11/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据库原理</title>
+      <link>https://quantpengpeng.github.io/post/blog4/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据结构</title>
+      <link>https://quantpengpeng.github.io/post/blog8/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机组成与体系结构</title>
+      <link>https://quantpengpeng.github.io/post/blog5/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机网络</title>
+      <link>https://quantpengpeng.github.io/post/blog7/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>软件开发工具学</title>
+      <link>https://quantpengpeng.github.io/post/blog1/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>运筹学</title>
+      <link>https://quantpengpeng.github.io/post/blog10/</link>
+      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/post/blog10/</guid>
       <description></description>
     </item>
     
