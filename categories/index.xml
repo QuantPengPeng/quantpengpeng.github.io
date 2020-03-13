@@ -6,10 +6,19 @@
     <description>Recent content in Categories on QuantPengPeng(张鹏)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2020 09:07:36 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 09:07:36 +0800</lastBuildDate>
     
 	<atom:link href="https://quantpengpeng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>保险领域</title>
+      <link>https://quantpengpeng.github.io/categories/%E4%BF%9D%E9%99%A9%E9%A2%86%E5%9F%9F/</link>
+      <pubDate>Fri, 13 Mar 2020 09:07:36 +0800</pubDate>
+      
+      <guid>https://quantpengpeng.github.io/categories/%E4%BF%9D%E9%99%A9%E9%A2%86%E5%9F%9F/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IT学科理论</title>
@@ -26,15 +35,6 @@
       <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
       
       <guid>https://quantpengpeng.github.io/categories/it%E5%AE%9E%E8%B7%B5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>保险领域</title>
-      <link>https://quantpengpeng.github.io/categories/%E4%BF%9D%E9%99%A9%E9%A2%86%E5%9F%9F/</link>
-      <pubDate>Wed, 11 Mar 2020 09:07:36 +0800</pubDate>
-      
-      <guid>https://quantpengpeng.github.io/categories/%E4%BF%9D%E9%99%A9%E9%A2%86%E5%9F%9F/</guid>
       <description></description>
     </item>
     
