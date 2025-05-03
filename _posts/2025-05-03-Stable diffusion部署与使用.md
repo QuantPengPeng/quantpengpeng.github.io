@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Stable diffusion部署与使用
+title: Stable diffusion的部署与使用
 tags:
-- AI绘图
 - stable diffusion
 categories: AI绘图
-description: Stable Diffusion 是一款开源的 **文本生成图像（Text-to-Image）** AI 模型，能够通过自然语言描述快速生成高质量、高分辨率的图片，支持本地部署和个性化定制，广泛应用于艺术创作、设计和内容生成领域。 🎨✨
+description: Stable Diffusion 是一款开源的 文本生成图像（Text-to-Image）AI 模型，能够通过自然语言描述快速生成高质量、高分辨率的图片，支持本地部署和个性化定制，广泛应用于艺术创作、设计和内容生成领域。 🎨✨
 ---
 
 ### 安装homebrew
@@ -63,7 +62,7 @@ cd ~
 
 另外找到stable diffusion webui的工程文件夹，找到**modules/launch_utils.py**的文件，给github组件的路径前添加`ghproxy.com/`，示例如下：
 
-![ghproxy](https://raw.githubusercontent.com/QuantPengPeng/quantpengpeng.github.io/refs/heads/master/_data/post_img/2025-05-03-stable_diffusion/ghproxy.jpeg)
+![](https://raw.githubusercontent.com/QuantPengPeng/quantpengpeng.github.io/refs/heads/master/_data/post_img/2025-05-03-stable_diffusion/ghproxy.jpeg)
 
 若报错**Can't load tokenizer for ‘openai/clip-vit-large-patch14’**，则是因为其从huggingface拉取失败，可以自行下载并放置到**stable-diffusion-webui/openai/clip-vit-large-patch14**，这样处理完就可以启动成功了。
 
@@ -87,7 +86,7 @@ cd ~
 
 * 路径：[stable-diffusion-webui-localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
 * 下载完成后，在设置中的localization中选择简体中文，之后保存设置并reload UI即可
-![chinese_package](https://raw.githubusercontent.com/QuantPengPeng/quantpengpeng.github.io/refs/heads/master/_data/post_img/2025-05-03-stable_diffusion/chinese_package.jpeg)
+![](https://raw.githubusercontent.com/QuantPengPeng/quantpengpeng.github.io/refs/heads/master/_data/post_img/2025-05-03-stable_diffusion/chinese_package.jpeg)
 
 ---
 
