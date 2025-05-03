@@ -5,7 +5,7 @@ tags:
 - AI绘图
 - stable diffusion
 categories: AI绘图
-description: 
+description: Stable Diffusion 是一款开源的 **文本生成图像（Text-to-Image）** AI 模型，能够通过自然语言描述快速生成高质量、高分辨率的图片，支持本地部署和个性化定制，广泛应用于艺术创作、设计和内容生成领域。 🎨✨
 ---
 
 ### 安装homebrew
@@ -77,7 +77,7 @@ cd ~
 * 可从该网站下载：[civitai](https://civitai.com/)
 * 下载的checkpoint可放置到**stable-diffusion-webui/models/Stable-diffusion**路径下
 * 下载的lora权重文件可放置到**stable-diffusion-webui/models/Lora**路径下
-* 优秀的写真模型如：
+* 优秀的写真模型如：    
   [**majicMIX realistic 麦橘写实**](https://civitai.com/models/43331/majicmix-realistic)   
   [**iNiverse Mix(SFW & NSFW)**](https://civitai.com/models/226533/iniverse-mixsfw-and-nsfw)
 
