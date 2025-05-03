@@ -8,33 +8,33 @@ categories: AI绘图
 description: 
 ---
 
-### 1. 安装homebrew
+### 安装homebrew
 
 `/bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/install.sh)”`
 
 ---
 
-### 2.安装 stable diffusion webui 的依赖
+### 安装 stable diffusion webui 的依赖
 
 `brew install cmake protobuf rust python@3.10 wget`
 
 ---
 
 
-### 3. Pip设置镜像
+### Pip设置镜像
 
 `pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/`
 
 若设置pip config的时候遇到**permission**的问题，可以对其上级文件夹`sudo chmod -R 777` 文件夹路径，使得pip config可以设置成功
 
-### 4. 下载 stable diffusion webui 代码
+### 下载 stable diffusion webui 代码
 
 ```
 cd ~
 git clone https://gitee.com/ineo6/stable-diffusion-webui.git
 ```
 
-### 5. 启动 stable diffusion webui 本体
+### 启动 stable diffusion webui 本体
 ```
 cd ~
 /stable-diffusion-webui ./webui.sh
