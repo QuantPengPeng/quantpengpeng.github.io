@@ -65,7 +65,7 @@ cd ~
 
 ![ghproxy.com](../_data/post_img/2025-05-03-stable_diffusion/ghproxy.jpeg "ghproxy.com/")
 
-若报错**Can't load tokenizer for ‘openai/clip-vit-large-patch14’**，则是因为其从huggingface拉取失败，可以自行下载并放置到*stable-diffusion-webui/openai/clip-vit-large-patch14*，这样处理完就可以启动成功了。
+若报错**Can't load tokenizer for ‘openai/clip-vit-large-patch14’**，则是因为其从huggingface拉取失败，可以自行下载并放置到**stable-diffusion-webui/openai/clip-vit-large-patch14**，这样处理完就可以启动成功了。
 
 若出现Running on local URL:  http://127.0.0.1:7860并弹出界面，则启动成功了。
 
@@ -74,18 +74,18 @@ cd ~
 ### 下载模型checkpoint和微调权重lora
 
 
-* 可从该网站下载：https://civitai.com/
+* 可从该网站下载：[civitai](https://civitai.com/)
 * 下载的checkpoint可放置到**stable-diffusion-webui/models/Stable-diffusion**路径下
 * 下载的lora权重文件可放置到**stable-diffusion-webui/models/Lora**路径下
 * 优秀的写真模型如：
-  **majicMIX realistic 麦橘写实**
-  **iNiverse Mix(SFW & NSFW)**
+  [**majicMIX realistic 麦橘写实**](https://civitai.com/models/43331/majicmix-realistic)   
+  [**iNiverse Mix(SFW & NSFW)**](https://civitai.com/models/226533/iniverse-mixsfw-and-nsfw)
 
 ---
 
 ### 中文包下载安装
 
-* 路径：https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
+* 路径：[stable-diffusion-webui-localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
 * 下载完成后，在设置中的localization中选择简体中文，之后保存设置并reload UI即可
 ![chinese_package](../_data/post_img/2025-05-03-stable_diffusion/chinese_package.jpeg "chinese_package")
 
