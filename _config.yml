@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : quantpengpeng
+title : (｢･ω･)｢٩( 'ω' )و仔喜
 tagline: 朝碧海而暮苍梧，睹青天而攀白日
 assets: /assets
 url:
@@ -58,9 +58,9 @@ widgets:
 - tag
 - tagcloud
 - links
-- douban
-- github-card
-- rss
+## - douban
+## - github-card
+## - rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
@@ -87,7 +87,7 @@ share_to: true      #enable share-to buttons if true
 
 #### Author information
 author:
-  name: (｢･ω･)｢٩( 'ω' )و仔喜
+  name: quantpengpeng
   intro_line1:  万般皆是心，点点皆由人    ## your introduction on the bottom of the page
   intro_line2:    ## the 2nd line
   weibo:      ## e.g. XXX for http://weibo.com/XXX
