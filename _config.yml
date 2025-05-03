@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : (｢･ω･)｢٩( 'ω' )و仔喜
+title : quantpengpeng
 tagline: 朝碧海而暮苍梧，睹青天而攀白日
 assets: /assets
 url:
@@ -97,7 +97,7 @@ author:
   zhihu:      ## e.g. XXX  for http://www.zhihu.com/people/XXX
   email:      quantpengpeng@outlook.com ## e.g. XXX@gmail.com
   twitter:    ## e.g. XXX for https://twitter.com/XXX
-  github:     ## e.g. QuantPengPeng for https://github.com/QuantPengPeng
+  github:     https://github.com/QuantPengPeng ## e.g. QuantPengPeng for https://github.com/QuantPengPeng
   facebook:   ## e.g. XXX for https://facebook.com/XXX
   linkedin:   ## e.g. XXX for https://www.linkedin.com/in/XXX
   google_plus:    ## e.g. "XXX" for https://plus.google.com/u/0/XXX, the "" is needed!
