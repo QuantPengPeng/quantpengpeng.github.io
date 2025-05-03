@@ -18,14 +18,18 @@ description:
 
 ### 安装 stable diffusion webui 的依赖
 
-`brew install cmake protobuf rust python@3.10 wget`
+```
+brew install cmake protobuf rust python@3.10 wget
+```
 
 ---
 
 
 ### Pip设置镜像
 
-`pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/`
+```
+pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
+```
 
 若设置pip config的时候遇到**permission**的问题，可以对其上级文件夹`sudo chmod -R 777` 文件夹路径，使得pip config可以设置成功
 
@@ -47,8 +51,9 @@ cd ~
 ```
 
 在启动的过程中需要从github中拉取一些组件，需要切换github的加速源，一般选择自营加速源：
-
-`/bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/stable-diffusion-webui/raw/master/super-gh.sh)”`
+```
+/bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/stable-diffusion-webui/raw/master/super-gh.sh)”
+```
 
 ```
 1) ghproxy.com      3) ghps.cc               5)hub.gitmirror.com
@@ -140,4 +145,4 @@ RAW photograph, ultra-detailed skin, subsurface scattering,
 
 ### 参考教程：
 
-[mac极速安装stable diffusion webui教程]([https://](https://brew.idayer.com/install/stable-diffusion-webui/))
+[mac极速安装stable diffusion webui教程](https://brew.idayer.com/install/stable-diffusion-webui/)
