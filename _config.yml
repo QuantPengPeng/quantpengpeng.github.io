@@ -97,7 +97,7 @@ author:
   zhihu:      ## e.g. XXX  for http://www.zhihu.com/people/XXX
   email:      quantpengpeng@outlook.com ## e.g. XXX@gmail.com
   twitter:    ## e.g. XXX for https://twitter.com/XXX
-  github:     https://github.com/QuantPengPeng ## e.g. QuantPengPeng for https://github.com/QuantPengPeng
+  github:     QuantPengPeng ## e.g. QuantPengPeng for https://github.com/QuantPengPeng
   facebook:   ## e.g. XXX for https://facebook.com/XXX
   linkedin:   ## e.g. XXX for https://www.linkedin.com/in/XXX
   google_plus:    ## e.g. "XXX" for https://plus.google.com/u/0/XXX, the "" is needed!
