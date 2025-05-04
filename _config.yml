@@ -56,7 +56,7 @@ menu:
 widgets:
 - category
 - tag
-- tagcloud
+#- tagcloud
 - links
 ## - douban
 ## - github-card
@@ -94,7 +94,7 @@ author:
   weibo_verifier:  ## e.g. XXX Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. XXX  Your weibo ID,It will be used in share button.
   douban:     ## e.g. XXX or your id for https://www.douban.com/people/XXX
-  zhihu:      ## e.g. XXX  for http://www.zhihu.com/people/XXX
+  zhihu:      ## e.g. zhang-peng-56-40  for http://www.zhihu.com/people/XXX
   email:      quantpengpeng@outlook.com ## e.g. XXX@gmail.com
   twitter:    ## e.g. XXX for https://twitter.com/XXX
   github:     QuantPengPeng ## e.g. QuantPengPeng for https://github.com/QuantPengPeng
@@ -113,10 +113,10 @@ toc:
 
 #### Links
 links:
-  GDPU: https://www.gdpu.edu.cn/
-  GDOU: https://dxxy.gdou.edu.cn/
+#  GDPU: https://www.gdpu.edu.cn/
+#  GDOU: https://dxxy.gdou.edu.cn/
   Deloitte: https://www2.deloitte.com/cn/zh.html
-  CATL: https://www.catl.com/
+#  CATL: https://www.catl.com/
 
 #### Comment
 duoshuo_shortname:
