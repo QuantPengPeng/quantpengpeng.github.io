@@ -94,12 +94,12 @@ author:
   weibo_verifier:  ## e.g. XXX Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. XXX  Your weibo ID,It will be used in share button.
   douban:     ## e.g. XXX or your id for https://www.douban.com/people/XXX
-  zhihu:      ## e.g. zhang-peng-56-40  for http://www.zhihu.com/people/XXX
+  zhihu:      zhang-peng-56-40 ## e.g. zhang-peng-56-40  for http://www.zhihu.com/people/XXX
   email:      quantpengpeng@outlook.com ## e.g. XXX@gmail.com
   twitter:    ## e.g. XXX for https://twitter.com/XXX
   github:     QuantPengPeng ## e.g. QuantPengPeng for https://github.com/QuantPengPeng
   facebook:   ## e.g. XXX for https://facebook.com/XXX
-  linkedin:   ## e.g. XXX for https://www.linkedin.com/in/XXX
+  linkedin:   quantpengpeng ## e.g. XXX for https://www.linkedin.com/in/XXX
   google_plus:    ## e.g. "XXX" for https://plus.google.com/u/0/XXX, the "" is needed!
   stackoverflow:  ## e.g. XXX for http://stackoverflow.com/users/XXX/jark
 ## if you set them, the corresponding  share button will show on the footer
